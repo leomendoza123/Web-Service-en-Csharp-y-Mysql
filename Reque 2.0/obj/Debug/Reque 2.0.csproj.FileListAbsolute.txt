@@ -1,0 +1,9 @@
+C:\Users\Leo\documents\visual studio 2015\Projects\Reque 2.0\Reque 2.0\bin\Reque 2.0.dll.config
+C:\Users\Leo\documents\visual studio 2015\Projects\Reque 2.0\Reque 2.0\bin\Reque 2.0.dll
+C:\Users\Leo\documents\visual studio 2015\Projects\Reque 2.0\Reque 2.0\bin\Reque 2.0.pdb
+C:\Users\Leo\documents\visual studio 2015\Projects\Reque 2.0\Reque 2.0\obj\Debug\Reque 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Leo\documents\visual studio 2015\Projects\Reque 2.0\Reque 2.0\obj\Debug\Reque 2.0.dll
+C:\Users\Leo\documents\visual studio 2015\Projects\Reque 2.0\Reque 2.0\obj\Debug\Reque 2.0.pdb
+C:\Users\Leo\documents\visual studio 2015\Projects\Reque 2.0\Reque 2.0\bin\MySql.Data.dll
+C:\Users\Leo\documents\visual studio 2015\Projects\Reque 2.0\Reque 2.0\bin\Newtonsoft.Json.dll
+C:\Users\Leo\documents\visual studio 2015\Projects\Reque 2.0\Reque 2.0\bin\Newtonsoft.Json.xml

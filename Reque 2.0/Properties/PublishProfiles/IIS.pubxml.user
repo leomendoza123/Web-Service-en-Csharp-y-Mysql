@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo es utilizado por el proceso de paquete/publicación de nuestro proyecto Web. Puede personalizar el comportamiento de este proceso
+editando este archivo MSBuild. Para conocer más acerca de esto, visite http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\inetpub\wwwroot\Reque</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/MySql.Data.dll">
+      <publishTime>06/19/2015 01:01:08</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>09/28/2015 10:32:40</publishTime>
+    </File>
+    <File Include="bin/Reque 2.0.dll">
+      <publishTime>09/28/2015 11:52:05</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>09/28/2015 10:32:42</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/26/2015 16:58:40</publishTime>
+    </File>
+    <File Include="WebService.asmx">
+      <publishTime>09/26/2015 17:00:02</publishTime>
+    </File>
+    <File Include="WebService1.asmx">
+      <publishTime>09/26/2015 16:58:02</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
