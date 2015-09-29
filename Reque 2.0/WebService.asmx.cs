@@ -21,14 +21,31 @@ namespace Reque_2._0
 
       
         [WebMethod]
-        public string  Eventos()
+        public string  getShows()
         {
-            List<Evento> eventos = Datos.GetEventos();
-          //  return eventos.ToString();
-            return JsonConvert.SerializeObject(eventos, Formatting.Indented);
+            return JsonConvert.SerializeObject(Datos.GetShows(), Formatting.Indented);
      
 
         }
+        [WebMethod]
+        public string getRestaurantes()
+        {
+            return JsonConvert.SerializeObject(Datos.GetRestaurantes(), Formatting.Indented);
+        }
+
+        [WebMethod]
+        public string GetAtracciones()
+        {
+            return JsonConvert.SerializeObject(Datos.GetAtracciones(), Formatting.Indented);
+        }
+
+        [WebMethod]
+        public string GetTiendas()
+        {
+            return JsonConvert.SerializeObject(Datos.GetTiendas(), Formatting.Indented);
+        }
+
+
 
     }
 }

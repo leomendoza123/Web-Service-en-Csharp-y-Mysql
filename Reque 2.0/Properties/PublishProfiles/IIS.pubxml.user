@@ -16,7 +16,7 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
       <publishTime>09/28/2015 10:32:40</publishTime>
     </File>
     <File Include="bin/Reque 2.0.dll">
-      <publishTime>09/28/2015 11:52:05</publishTime>
+      <publishTime>09/29/2015 09:16:46</publishTime>
     </File>
     <File Include="packages.config">
       <publishTime>09/28/2015 10:32:42</publishTime>
